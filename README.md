@@ -1,4 +1,4 @@
 # myDemo
 this is my first repository
 <br>
-Author- Lion king 
+Author- Lion king (LK)
